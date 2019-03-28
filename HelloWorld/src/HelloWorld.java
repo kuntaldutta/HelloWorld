@@ -14,4 +14,7 @@ public class HelloWorld {
 	static{
 		System.out.println("Static Block2");
 	}
+	static{
+		System.out.println("Static Block3");
+	}
 }
